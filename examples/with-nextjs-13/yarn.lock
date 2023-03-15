@@ -1682,9 +1682,9 @@
     "@hapi/hoek" "^9.0.0"
 
 "@sideway/formula@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.npmjs.org/@sideway/formula/-/formula-3.0.0.tgz#fe158aee32e6bd5de85044be615bc08478a0a13c"
-  integrity sha512-vHe7wZ4NOXVfkoRb8T5otiENVlT7a3IAiw7H5M2+GO+9CDgcVUUsX1zalAztCmwyOr2RUTGJdgB+ZvSVqmdHmg==
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@sideway/formula/-/formula-3.0.1.tgz#80fcbcbaf7ce031e0ef2dd29b1bfc7c3f583611f"
+  integrity sha512-/poHZJJVjx3L+zVD6g9KgHfYnb443oi7wLu/XKojDviHy6HOEOA6z1Trk5aR1dGcmPenJEgb2sK2I80LeS3MIg==
 
 "@sideway/pinpoint@^2.0.0":
   version "2.0.0"
@@ -2247,10 +2247,10 @@
     "0xsequence" "^0.43.1"
     "@web3-onboard/common" "^2.2.3"
 
-"@web3-onboard/tallyho@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.npmjs.org/@web3-onboard/tallyho/-/tallyho-2.0.1.tgz#0d5987377436a0c7c249e90e9664e0c53d2b4641"
-  integrity sha512-JgntTyJvFSk0MOJjZauL5sqSG9e3ENURN7I/H+3GCMIkEGJChsVHaZZcy7D6zFNgwUreztv8tg7DSoal//iizg==
+"@web3-onboard/taho@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@web3-onboard/taho/-/taho-2.0.0.tgz#d26b917b9fba6361ddb5ac22d0badaad7bb07957"
+  integrity sha512-EppH3fVqUlMrgDWe8WPuOg3J1Vj/7WWJaa/yeZ84CMqrMqRHf48VayRDNdU8WSvA+hP0ij7YmwZGr0NhWwLUAg==
   dependencies:
     "@web3-onboard/common" "^2.2.3"
     tallyho-detect-provider "^1.0.0"
